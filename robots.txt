@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://solar-installation-greensboro-nc.netlify.app/sitemap.xml
